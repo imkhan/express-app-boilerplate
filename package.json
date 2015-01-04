@@ -1,5 +1,5 @@
 {
-  "name": "express-app-template",
+  "name": "express-app-boilerplate",
   "version": "1.0.0",
   "description": "An express app boilerplate to quickly boostrap a project",
   "main": "app.js",
