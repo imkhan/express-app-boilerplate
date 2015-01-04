@@ -1,0 +1,19 @@
+{
+  "name": "express-app-template",
+  "version": "0.0.0",
+  "authors": [
+    "Imran Khan <imran.khan@raweng.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}

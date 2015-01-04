@@ -1,0 +1,26 @@
+{
+  "name": "express-app-template",
+  "version": "1.0.0",
+  "description": "An express app boilerplate to quickly boostrap a project",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "errorhandler": "^1.3.2",
+    "express": "^4.10.6",
+    "method-override": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imkhan/express-app-boilerplate.git"
+  },
+  "author": "Imran Khan <imran.khan@raweng.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imkhan/express-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/imkhan/express-app-boilerplate"
+}
